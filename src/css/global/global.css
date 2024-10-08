@@ -78,7 +78,9 @@ img.responsiveimg {
   border-radius: 30px 30px 30px 30px;
   border: 1px #fff solid;
 }
-
+ul {
+  list-style-type: disc;
+}
 img.responsiveimg-300{
 width: 100%;
 height: auto;
